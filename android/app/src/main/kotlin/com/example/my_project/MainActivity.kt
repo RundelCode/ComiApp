@@ -1,4 +1,4 @@
-package com.flutterflow.coffeeshop
+package com.comidApp.comidApp
 
 import io.flutter.embedding.android.FlutterActivity
 

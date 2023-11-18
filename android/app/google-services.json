@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:754201288759:android:058ef1c474ce88e9f75fb2",
         "android_client_info": {
-          "package_name": "com.flutterflow.coffeeshop"
+          "package_name": "com.comidaApp.comidApp"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "754201288759-bq0d5pnuim0o999smmrlhtqgakisna1l.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.flutterflow.coffeeshop"
+                "bundle_id": "com.comidApp.comidApp"
               }
             }
           ]

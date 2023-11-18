@@ -86,7 +86,7 @@
         <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAl1teqggdy_TBKnjzLTruSulKXY7NgQSM"/>
 
         <provider
-            android:name="com.flutterflow.coffeeshop.firebaseinitprovider"
+            android:name="com.comidApp.comidApp.firebaseinitprovider"
             android:authorities="${applicationId}.firebaseinitprovider"
             android:exported="false"
             tools:replace="android:authorities">
