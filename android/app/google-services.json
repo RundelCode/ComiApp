@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "754201288759",
+    "project_id": "comidapp-404723",
+    "storage_bucket": "comidapp-404723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754201288759:android:058ef1c474ce88e9f75fb2",
+        "android_client_info": {
+          "package_name": "com.flutterflow.coffeeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754201288759-ipmijbmog3ls3r1p17tch2128tbmijhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVSHXHHWS20UoBIkXBitEat8Bs5EGhOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754201288759-ipmijbmog3ls3r1p17tch2128tbmijhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754201288759-bq0d5pnuim0o999smmrlhtqgakisna1l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.coffeeshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

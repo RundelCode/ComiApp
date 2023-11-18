@@ -1,0 +1,9 @@
+NSLocationWhenInUseUsageDescription = "Por favor habilita tu ubicación";
+NSCameraUsageDescription = "Por favor habilita tu cámara ";
+NSPhotoLibraryUsageDescription = "Por favor habilita tu galeria ";
+PermissionGroupNotification = "Habilitar Notificaciones";
+NSBluetoothAlwaysUsageDescription = "Por favor habilita tu cámara ";
+NSFaceIDUsageDescription = "Por favor habilita tus datos biometricos ";
+NSCalendarsUsageDescription = "Por favor habilita tu calendario ";
+NSContactsUsageDescription = "Por favor habilita el acceso a tus contactos ";
+NSMicrophoneUsageDescription = "Por favor habilita tu microfono ";
